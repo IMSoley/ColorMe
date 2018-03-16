@@ -46,7 +46,7 @@ ColorMe.warning('Hello World')
 
 ### Supported colors and styles
 
-| Background(bg)| Foreground(fg)| Style(dec) | Labels(lab) | 
+| Background(bg)| Foreground(fg)| Style(dec) | Label(lab)  | 
 | ------------- |:-------------:| ----------:| -----------:|
 | black         | black         | bold       | warning
 | red           | red           | underline  | info
