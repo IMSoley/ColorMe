@@ -35,12 +35,13 @@ ColorMe.warning('Hello World')
 # print("I love", ColorMe.black("Panda", bg="purple", dec="bold"))
 # print("I love", ColorMe.black("Panda", bg="purple", dec="bold, underline"))
 # print("I love", ColorMe.red("Panda", bg="black", dec="bold, underline, reversed"))
-# print("Name with label", ColorMe.warning("Panda"))
-# print("Name with label & color", ColorMe.info(ColorMe.green("Panda")))
+# print("Name with label", ColorMe.warning(" Panda"))
+# print("Name with label & color", ColorMe.info(ColorMe.green(" Panda")))
 # print("I love", ColorMe.success(ColorMe.red(" Panda", dec="bold")))
 ```
 
-
+#### Above code output from Windows cmd
+![Alt text](https://i.imgur.com/K1CVWdS.png "python colored output")
 
 
 ### Supported colors and styles
