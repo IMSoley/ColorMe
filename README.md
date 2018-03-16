@@ -17,7 +17,7 @@ ColorMe.yellow('Hello World')
 ColorMe.red('Hello World', bg='yellow')
 
 # color, background and style (bold)
-ColorMe.yellow('Hello World, bg='yellow', dec='bold')
+ColorMe.yellow('Hello World', bg='yellow', dec='bold')
 
 # for labels(see below table to look all supported labels)
 ColorMe.warning('Hello World')
