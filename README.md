@@ -1,5 +1,5 @@
 # ColorMe
-Python 3 colored output, Simple script to color your python output in your projects, this script supports in **Windows 10**, **Linux**
+Python 3 colored output, Simple script to color your python output in your projects, this script tested in **Windows 10**, **Linux**
 
 ### Usages
 copy this repo and put **pycolor.py** file in your project folder(current working directory) then 
